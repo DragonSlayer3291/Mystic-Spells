@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Mystic Spells</name>
+		<description>The material presented in Unearthed Arcana will range from mechanics that we expect one day to publish in a supplement to house rules from our home campaigns that we want to share, from core system options to setting-specific material. Once it’s out there, you can expect us to check in with you to see how it’s working out and what we can do to improve it.</description>
+		<author url="http://dnd.wizards.com/articles/unearthed-arcana">Wizards of the Coast</author>
+		<update version="0.5.4">
+			<file name="mystic_spells.index" url="https://raw.githubusercontent.com/DragonSlayer3291/Mystic-Spells/master/mystic_spells.index" />
+		</update>
+	</info>
+	<files>
+		<file name="20150202.xml" url="https://raw.githubusercontent.com/DragonSlayer3291/Mystic-Spells/master/Mystic Spells/mystic_spells.xml" />
+	</files>
+</index>
